@@ -1,6 +1,6 @@
-# Functional vite-react-motoko template
+# Functional vite-react, motoko and tailwind-css template
 
-This is a template that uses Vite-react and motoko
+This is a template that uses Vite-react, motoko and tailwind-css
 
 - [Quick Start](https://internetcomputer.org/docs/current/developer-docs/quickstart/hello10mins)
 - [SDK Developer Tools](https://internetcomputer.org/docs/current/developer-docs/build/install-upgrade-remove)
